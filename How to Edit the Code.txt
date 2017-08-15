@@ -1,0 +1,47 @@
+How to Edit the Code
+
+First time
+
+Method 1
+1. Download GitHub Desktop and git
+a. Use default settings for git, and then leave it alone
+2. Set it up/log in
+3. Hit “Clone a repository”
+4. Paste  https://github.com/hydrarobotics/Old-Code.git 
+a. Or hit the green “clone” button on the page and copy the link
+5. For “Local Path” choose whatever folder you want to store it in
+6. Hit clone
+7. Switch to Android Studio and open it there
+8. Do whatever you want
+9. Remember to switch the blue bar on the project tab to “project” 
+10. Click “VCS” in the menu bar and click “Open Version Control Integration”
+11. Click “Git” in the menu
+12. Hit the green up VCS button on the toolbar or open the VCS menu on the menu bar and hit “Commit changes”
+a. Shortcut = “Ctrl+K”
+13. Hover over “commit” and hit “commit and push”
+14. Hit “Push”
+
+Method 2
+1. Open Android Studio
+2. Click “Check out project from version control”
+3. Paste  https://github.com/hydrarobotics/Old-Code.git 
+a. Or hit the green “clone” button on the page and copy the link
+4. For “Parent Directory” choose whatever folder you want to store it in
+5. Hit clone
+6. Follow all defaults
+7. Do whatever you want
+b. Remember to switch the blue bar on the project tab to “project”
+8. Hit the green up VCS button on the toolbar or open the VCS menu on the menu bar and hit “Commit changes”
+9. Shortcut = “Ctrl+K”
+10. Hover over “commit” and hit “commit and push”
+11. Hit “Push”
+
+Successive times
+
+1. Open Android Studio
+2. Hit the blue down VCS button on the toolbar
+3. Set it to “Merge” on left and “Using Stash” on right
+4. If there is a merge conflict hit cancel and don’t update and bring it to the next meeting to get fixed.
+a. You can upload the non-conflict stuff, but ANY AND ALL conflicts should be resolved at a meeting. 
+5. Your project is now updated! 
+
